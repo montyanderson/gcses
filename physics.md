@@ -82,3 +82,17 @@
 * Liquids and gases expand when they are heated. This is because the particles in liquids and gases move faster when they are heated than they do when they are cold. As a result, the particles take up more volume. This is because the gap between particles widens, while the particles themselves stay the same size.
 
 * The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas. The denser cold liquid or gas falls into the warm areas. In this way, convection currents that transfer heat from place to place are set up.
+
+## Speed and Velocity
+
+### v = s / t
+
+* Speed = distance / time
+
+### v̅ = Δs / Δt
+
+* Average speed = delta s / delta t
+
+### Instantaneous Speed
+
+* A car's **speedometer** may show *instantaneous speed*, which is the speed measured over the smallest possible unit of time- "an instant". **See Calculus!**
