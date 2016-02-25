@@ -85,6 +85,8 @@
 
 ## Speed and Velocity
 
+### Speed
+
 ### v = s / t
 
 * Speed = distance / time
@@ -96,3 +98,9 @@
 ### Instantaneous Speed
 
 * A car's **speedometer** may show *instantaneous speed*, which is the speed measured over the smallest possible unit of time- "an instant". **See Calculus!**
+
+### Wait... Speed or velocity?
+
+[http://physics.info/velocity/](http://physics.info/velocity/)
+
+#### *What do you mean by how far? Do you want the distance or the* displacement?
