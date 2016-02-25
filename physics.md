@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <th></th>
-        <td>![](http://www.bbc.co.uk/staticarchive/2aa0a38d9d5c7e2d75c3154690b722afea832ca8.gif)</td>
-        <td>![](http://www.bbc.co.uk/staticarchive/baa8446d9c5d4b113e6860bb7a99ef6919592df6.gif)</td>
-        <td>![](http://www.bbc.co.uk/staticarchive/ef2afc13e07f8891cc7ac00c780ea76f179a5350.gif)</td>
+        <td><img src="http://www.bbc.co.uk/staticarchive/2aa0a38d9d5c7e2d75c3154690b722afea832ca8.gif"></td>
+        <td><img src="http://www.bbc.co.uk/staticarchive/baa8446d9c5d4b113e6860bb7a99ef6919592df6.gif"></td>
+        <td><img src="http://www.bbc.co.uk/staticarchive/ef2afc13e07f8891cc7ac00c780ea76f179a5350.gif"></td>
     </tr>
 </table>
 
