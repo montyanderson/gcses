@@ -68,3 +68,13 @@
 * The electrons in a piece of metal can leave their atoms, and move about in the metal as free (discrete) electrons.
 
 * The parts of metal now left behind are **charged metal ions**. The ions are packed close together and vibrate continually.
+
+* The hotter the metal, the more kinetic energy these vibrations have. The kinetic energy is then transferred from the hot parts of the metal to the cooler parts by the free electrons. These move through the structure of the metal, colliding with ions as they go.
+
+## Convection
+
+* Liquids and gases are fluids; the particles in these can move from place to place freely.
+
+* Convection occurs when particles with a lot of heat energy (in a liquid or gas) move and take the place of particles with less heat energy.
+
+* Heat energy is transferred from hot places to cooler places by convection.
