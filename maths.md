@@ -2,12 +2,6 @@
 
 <!---http://www.myphysicslab.com/web_math.html--->
 
-<style>
-    td.upper_line { border-top:solid 1px black; }
-    table.fraction { text-align: center; vertical-align: middle;
-        margin-top:0.5em; margin-bottom:0.5em; line-height: 2em; }
-</style>
-
 a<sup>b</sup> / a<sup>c</sup> = a<sup>b - c</sup>
 
 a<sup>b</sup> * a<sup>c</sup> = a<sup>b + c</sup>
