@@ -83,6 +83,30 @@
 
 * The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas. The denser cold liquid or gas falls into the warm areas. In this way, convection currents that transfer heat from place to place are set up.
 
+## Laws of Motion
+
+### Newton's first law of motion
+
+* **Every body persists in its state of being at rest or of moving uniformly straight forward, except insofar as it is compelled to change its state by force impressed**
+
+* ![](https://upload.wikimedia.org/math/1/f/f/1ff5902d62d97b053c033a4103dc37e5.png)
+
+* If the net speed on a body is zero, it's velocity will not change.
+
+* The reason why initially moving objects tend to come to rest in our "everyday" life is because they are being acted on by unbalanced forces.
+
+### Newton's second law of motion
+
+* **The vector sum of the forces F on an object is equal to the mass m of that object multiplied by the acceleration vector a of the object**
+
+* ### &Sigma;F = m &sdot; a
+
+* ![](https://upload.wikimedia.org/math/8/0/1/80195b20773faefe5002cc5b64382147.png)
+
+* Force equals mass times acceleration, and increases linearly with mass or acceleration.
+
+* ### F = 1N = 1 <sup>kg &sdot;m</sup>&frasl;<sub>s<sup>2</sup></sub>
+
 ## Speed and Velocity
 
 ### Speed
