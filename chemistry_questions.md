@@ -6,12 +6,12 @@
 
 ### 1) What is the name given to each of the following changes of state?
 
-&deg; solid to liquid - &deg;&deg;melting&deg;&deg;
-&deg; liquid to solid - &deg;&deg;freezing&deg;&deg;
-&deg; solid to gas - &deg;&deg;sublimation&deg;&deg;
-&deg; gas to solid - &deg;&deg;sublimation&deg;&deg;
+* solid to liquid - **melting**
+* liquid to solid - **freezing**
+* solid to gas - **sublimation**
+* gas to solid - **sublimation**
 
-( solid to gas and gas to solid are both called &deg;&deg;sublimation&deg;&deg;)
+( solid to gas and gas to solid are both called **sublimation**)
 
 ### 2)
 
@@ -21,9 +21,9 @@ Particles in a solid are tightly packed together in a uniform fashion and vibrat
 
 #### c) The change of state from a liquid to a gas can be either evaporation or boiling. Explain the difference between evaporation and boiling.
 
-Boiling is a &deg;&deg;fast&deg;&deg; process that occours at a &deg;&deg;specific temperature&deg;&deg;, &deg;&deg;throughout the liquid&deg;&deg; where &deg;&deg;bubbles occour&deg;&deg;. A &deg;&deg;specific source of energy&deg;&deg; is needed.
+Boiling is a **fast** process that occours at a **specific temperature**, **throughout the liquid** where **bubbles occour**. A **specific source of energy** is needed.
 
-Evaporation is a &deg;&deg;slow&deg;&deg; process that occours at &deg;&deg;all temperatures&deg;&deg;, &deg;&deg;only on the exposed surface of the liquid&deg;&deg;, &deg;&deg;no bubbles are formed&deg;&deg;. Energy is supplied by &deg;&deg;the surroundings&deg;&deg;.
+Evaporation is a **slow** process that occours at **all temperatures**, **only on the exposed surface of the liquid**, **no bubbles are formed**. Energy is supplied by **the surroundings**.
 
 #### d) Some liquids are stored in sealed bottles for a very long time - decades or more. Explain why they don't evaporate.
 
@@ -34,11 +34,11 @@ In a sealed container, particles return and stick to the container at the same r
 
 #### a) Write down the physical states of each substance at 20&deg;C
 
-&deg; a - gas
-&deg; b - liquid
-&deg; c - solid
-&deg; d - liquid
-&deg; e - solid
+* a - gas
+* b - liquid
+* c - solid
+* d - liquid
+* e - solid
 
 #### b) Which substance has the strongest attractions between it's particles?
 
