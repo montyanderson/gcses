@@ -1,5 +1,7 @@
 # Chemistry Questions
 
+**Official answers are [here](https://www.scribd.com/doc/251596738/Edexcel-IGCSE-Chemistry-Student-s-Book-Answers)**
+
 ## Chapter 1
 
 ### 1) What is the name given to each of the following changes of state?
