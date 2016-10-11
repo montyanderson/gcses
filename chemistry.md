@@ -6,6 +6,8 @@
 
 * **Diffusion** - The spreading out of gas or liquid particles
 
+Lighter particles in a gas travel much faster than heavier ones.
+
 ## Chapter 2
 
 * **atomic number** = number of protons

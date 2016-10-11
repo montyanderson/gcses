@@ -61,3 +61,19 @@ It sublimes, meaning it goes directly from a solid to a gas (without ever becomi
 D. It has the lowest boiling point of the two liquids;
 
 ### 4) Refer to Figure 1.11, which shows the diffusion experiment.
+
+#### a) Explain why the ring takes little time to form
+
+The ammonia and hydrogen chloride particles collide with the air particles the entire way.
+
+#### b) If you heat a gas, what effect will thus have on the movement of the particles?
+
+The particles will move faster.
+
+#### c) In light of your answer **(b)**, what different would you find if you did this experiment outside on a day when the temperature was 2&deg;C instead of a warm lab at 25&deg;C?
+
+The ring would be at the same place, but it would take more time to appear, as the gas particles would be moving more slowly.
+
+#### d) Explain why the ring was formed nearer the hydrochloric acid end of the tube.
+
+The ring formed near the hydrochloric acid end of the tube as the ammonia clearly travels more quickly than the hydrochloric acid.
