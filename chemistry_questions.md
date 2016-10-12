@@ -77,3 +77,21 @@ The ring would be at the same place, but it would take more time to appear, as t
 #### d) Explain why the ring was formed nearer the hydrochloric acid end of the tube.
 
 The ring formed near the hydrochloric acid end of the tube as the ammonia clearly travels more quickly than the hydrochloric acid.
+
+## Chapter 2
+
+### Fluorine atoms have a mass number of 19
+
+#### a) Use the Periodic Table to find the atomic number of fluorine
+
+9.
+
+#### b) Explain what mass number means
+
+The "mass number" is the sum of the protons and the neutrons.
+
+#### c) Write down the number of protons, neutrons, and electrons in a fluorine atom
+
+Protons - 9
+Neutrons - 10
+Electrons - 9
