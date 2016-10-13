@@ -136,3 +136,56 @@ Isotopes are forms of the same element (same amount of protons), but with differ
 #### c) sulfur
 
 2, 8, 6
+
+### Draw diagrams to show the arrangement of the electrons in
+
+#### a) arsenic
+
+5
+
+#### b) bromine
+
+7
+
+#### c) tin
+
+4
+
+#### d) xenon
+
+8
+
+### The questions refer to the electronic structures below. Don't worry if some of these are unfamiliar to you. All of these are the electronic structures of neutral atoms.
+
+* A 2, 4
+* B 2, 8, 8
+* C 2, 8, 18, 18, 7
+* D 2, 8, 18
+* E 2, 8, 8, 2
+* F 2, 8, 18, 32, 18, 4
+
+#### a) Which of these atoms are in group 4 of the Periodic Table?
+
+A, F
+
+#### b) Which of these structures represents carbon?
+
+A - the electrons sum to the atomic number of carbon (6)
+
+#### c) Which of these structures represents an element in group 7 of the periodic table?
+
+C - the number of electrons in the outer layer is 7
+
+#### d) Which of these structures represent noble gases?
+
+B - the number of electrons in the outer shell is 8, which corrosponds to group 0 (the noble gases)
+
+#### e) Name element E
+
+Calcium
+
+#### f) How many protons does element F have? Name the element.
+
+&nbsp;82.
+
+#### g) Element G has one more electron than element B. Draw a diagram to show how the electrons are arranged in an atom of G.
