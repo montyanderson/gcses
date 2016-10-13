@@ -127,6 +127,12 @@ Isotopes are forms of the same element (same amount of protons), but with differ
 
 #### a) sodium
 
+2, 8, 1
+
 #### b) silicon
 
+2, 8, 4
+
 #### c) sulfur
+
+2, 8, 6
