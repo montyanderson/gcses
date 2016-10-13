@@ -80,7 +80,7 @@ The ring formed near the hydrochloric acid end of the tube as the ammonia clearl
 
 ## Chapter 2
 
-### Fluorine atoms have a mass number of 19
+### 1) Fluorine atoms have a mass number of 19
 
 #### a) Use the Periodic Table to find the atomic number of fluorine
 
@@ -95,3 +95,38 @@ The "mass number" is the sum of the protons and the neutrons.
 Protons - 9
 Neutrons - 10
 Electrons - 9
+
+### 2) Work out the numbers of protons, neutrons, and electrons in each of the following atoms:
+
+#### a) <sup>56</sup><sub>26</sub>Fe
+
+26p, 30n, 26e
+
+#### b) <sup>93</sup><sub>41</sub>Nb
+
+41p, 52n, 41e
+
+#### c) <sup>235</sup><sub>92</sub>U
+
+92p, 143n, 92e
+
+### 3) Chlorine has two isotopes, chlorine-35 and chlorine-37.
+
+#### a) What are isotopes?
+
+Isotopes are forms of the same element (same amount of protons), but with different amounts of neutrons.
+
+#### b) Write down the number of protons, neutrons, and electrons in the two isotopes.
+
+#### c) Write down the arrangement of the electrons in each of the two isotopes
+
+* Chlorine-35 - 2, 8, 7
+* Chlorine-37 - 2, 8, 7
+
+### 4) Draw diagrams to show the arrangement of the electrons in
+
+#### a) sodium
+
+#### b) silicon
+
+#### c) sulfur
