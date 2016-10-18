@@ -189,3 +189,92 @@ Calcium
 &nbsp;82.
 
 #### g) Element G has one more electron than element B. Draw a diagram to show how the electrons are arranged in an atom of G.
+
+## Chapter 3
+
+### 3)
+
+#### a) What is meant by **(i)** an ion; **(ii)** an ionic bond?
+
+An ion is an atom or molecule with a net electrical charge due to loosing or gaining an electrical atom.
+
+An ionic bond is one where an electron is shared between two atoms.
+
+#### b) In each of the following cases, write down the electronic structures of the original atoms, then explain (in words or diagrams) what happens when:
+
+##### (i) sodium bonds with chlorine to make sodium chloride
+
+Na 1e + Cl 7e => Na 0e + Cl 8e
+
+##### (ii) lithium bonds with oxygen to make lithium oxide
+
+Li 1e + O 6e => Li 0e + O 6e
+
+##### (iii) magnesium bonds with fluorine to make magnesium fluoride
+
+Mg 2e + F 7e => Mg 8e + F 8e
+
+### 4)
+
+#### a) A solid metal is often described as having 'an array of positive ions in a sea of electrons'. Write down the electronic structure of a magnesium atom and use it to explain what this phrase means.
+
+This phrase is used to show that when you have a solid metal, the atoms loose some of their electrons into the surroundings, and thus gain a posititve charge.
+
+![](https://i.imgur.com/Njf8rFk.png)
+
+#### b) Metallic bonds are not fully broken until the metal has first melted and then boiled. The boiling points of sodium, magnesium, and aluminium are 890&deg;C, 1110&deg;C, and 2470&deg;C, respectively. What does this suggest about the strengths of the metallic bonds in these three elements?
+
+The higher the temperature needed to boil, the higher the energy that is typically needed to break the bond, thus they are very strong. The bonds get consecutively stronger from sodium to magnesium to aluminium.
+
+#### c) Find these metals in the Periodic Table, and suggest why the boiling points show this pattern.
+
+As the boiling points increase (with these three elements), the horizontal position in the periodic table also increases. This shows that they have more outer electrons to give and thus create a better mettalic bond which requires more energy to break.
+
+#### d) Assuming that an electric current is simply a flow of electrons, suggest why all these elements are good conductors of electricity.
+
+They all have delocalized electrons, which are mobile.
+
+### 5) The table below gives details of the boiling temperatures of some substances made up of covalent molecules. Arrange these substances in increasing order of the strength of their intermolecular attractions.
+
+<table>
+	<tr>
+		<td></td>
+		<td>Boiling Point (&deg;C)</td>
+	</tr>
+	<tr>
+		<td>ammonia</td>
+		<td>-33</td>
+	</tr>
+	<tr>
+		<td>ethanmide</td>
+		<td>221</td>
+	</tr>
+	<tr>
+		<td>ethanol</td>
+		<td>78.5</td>
+	</tr>
+	<tr>
+		<td>hydrogen</td>
+		<td>-253</td>
+	</tr>
+	<tr>
+		<td>phosphorus trifluoride</td>
+		<td>-101</td>
+	</tr>
+	<tr>
+		<td>water</td>
+		<td>100</td>
+	</tr>
+</table>
+
+hydrogen, phosphorus trifluoride, ammonia, ethanol, water, ethanmide
+
+### 6) Boron and aluminium are both in Group 3 of the Periodic Table. Both form compounds with fluorine, (BF<sub>3</sub> and AlF<sub>3</sub>). Unusually for elements found in the same group of the Periodic Table, their compounds are bonded differently. BF<sub>3</sub> is covalent, whereas AlF<sub>3</sub> is a straightforward ionic compound.
+
+#### b) Explain, using diagrams or otherwise, the origin of ionic bonding in AlF<sub>3</sub>.
+
+As Al (aluminium) has 5 outer electrons, and F (fluorine) has 3, having 3 F atoms allows Al to pull the atoms inwards to create a set of 8.
+
+#### c) BF<sub>3</sub> is described as an electron-deficient compound. What do you think that might mean?
+
+It could mean that it doesn't have enough electrons and could be unstable as a result.

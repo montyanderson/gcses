@@ -32,3 +32,16 @@ Lighter particles in a gas travel much faster than heavier ones.
 * Find out the number of protons for the atom
 * Assume the same amount of neutrons as neutrons for a neutral atom
 * Arrange the electrons in layers, slowly filling them up
+
+## Chapter 3
+
+## Covalent Bonds
+
+A covalent bond is where two atoms share a pair of electrons.
+
+## Ionic (electrovalent) Bonds
+
+An ionic bond is where two atoms share a single electron, and one of the atoms pulls the electron very close to itself, and becomes negatively charged. The atom loosing the electron becomes positively charged.
+
+* A positive ion is called a **cation**.
+* A negative ion is called an **anion**.
