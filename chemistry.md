@@ -35,13 +35,39 @@ Lighter particles in a gas travel much faster than heavier ones.
 
 ## Chapter 3
 
-## Covalent Bonds
+### Covalent Bonds
 
 A covalent bond is where two atoms share a pair of electrons.
 
-## Ionic (electrovalent) Bonds
+### Ionic (electrovalent) Bonds
 
 An ionic bond is where two atoms share a single electron, and one of the atoms pulls the electron very close to itself, and becomes negatively charged. The atom loosing the electron becomes positively charged.
 
 * A positive ion is called a **cation**.
 * A negative ion is called an **anion**.
+
+### Metallic Bonds
+
+In a metallic bond, neutral metallic atoms lose their negatively-charged electrons into the surrondings, and thusly become postitvely charged.
+
+## Chapter 4
+
+There are two types of strutures, **giant** and **molecular**.
+
+### Giant metallic structures
+
+* **Giant metallic structures** consist of a regular array of posititve ions in a sea of delocalised electrons.
+
+Metals are generally good conductors of heat and electricity. They also typically have a maliable structure.
+
+If a small force is exerted onto a metal, some of the particles move into their new positions.
+
+### Alloys
+
+An alloy is a mixture of metals; a metallic compound.
+
+* **Brass** is a mixture of copper and zinc.
+
+### Giant ionic structures
+
+* *Ionic compounds have high melting points and boiling points because of strong intermolecular forces holding the lattices together.*

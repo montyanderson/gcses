@@ -4,7 +4,7 @@
 
 ## Chapter 1
 
-### 1) What is the name given to each of the following changes of state?
+### 1. What is the name given to each of the following changes of state?
 
 * solid to liquid - **melting**
 * liquid to solid - **freezing**
@@ -13,7 +13,7 @@
 
 ( solid to gas and gas to solid are both called **sublimation**)
 
-### 2)
+### 2.
 
 #### b) Describe the difference between the arrangement of the particles in a solid, a liquid, and a gas.
 
@@ -30,7 +30,7 @@ Evaporation is a **slow** process that occours at **all temperatures**, **only o
 In a sealed container, particles return and stick to the container at the same rate as particles are evaporating.
 
 
-### 3) The questions refer to the table below
+### 3. The questions refer to the table below
 
 #### a) Write down the physical states of each substance at 20&deg;C
 
@@ -60,7 +60,7 @@ It sublimes, meaning it goes directly from a solid to a gas (without ever becomi
 
 D. It has the lowest boiling point of the two liquids;
 
-### 4) Refer to Figure 1.11, which shows the diffusion experiment.
+### 4. Refer to Figure 1.11, which shows the diffusion experiment.
 
 #### a) Explain why the ring takes little time to form
 
@@ -80,7 +80,7 @@ The ring formed near the hydrochloric acid end of the tube as the ammonia clearl
 
 ## Chapter 2
 
-### 1) Fluorine atoms have a mass number of 19
+### 1. Fluorine atoms have a mass number of 19
 
 #### a) Use the Periodic Table to find the atomic number of fluorine
 
@@ -96,7 +96,7 @@ Protons - 9
 Neutrons - 10
 Electrons - 9
 
-### 2) Work out the numbers of protons, neutrons, and electrons in each of the following atoms:
+### 2. Work out the numbers of protons, neutrons, and electrons in each of the following atoms:
 
 #### a) <sup>56</sup><sub>26</sub>Fe
 
@@ -110,7 +110,7 @@ Electrons - 9
 
 92p, 143n, 92e
 
-### 3) Chlorine has two isotopes, chlorine-35 and chlorine-37.
+### 3. Chlorine has two isotopes, chlorine-35 and chlorine-37.
 
 #### a) What are isotopes?
 
@@ -123,7 +123,7 @@ Isotopes are forms of the same element (same amount of protons), but with differ
 * Chlorine-35 - 2, 8, 7
 * Chlorine-37 - 2, 8, 7
 
-### 4) Draw diagrams to show the arrangement of the electrons in
+### 4. Draw diagrams to show the arrangement of the electrons in
 
 #### a) sodium
 
@@ -192,7 +192,7 @@ Calcium
 
 ## Chapter 3
 
-### 3)
+### 3.
 
 #### a) What is meant by **(i)** an ion; **(ii)** an ionic bond?
 
@@ -214,7 +214,7 @@ Li 1e + O 6e => Li 0e + O 6e
 
 Mg 2e + F 7e => Mg 8e + F 8e
 
-### 4)
+### 4.
 
 #### a) A solid metal is often described as having 'an array of positive ions in a sea of electrons'. Write down the electronic structure of a magnesium atom and use it to explain what this phrase means.
 
@@ -234,7 +234,7 @@ As the boiling points increase (with these three elements), the horizontal posit
 
 They all have delocalized electrons, which are mobile.
 
-### 5) The table below gives details of the boiling temperatures of some substances made up of covalent molecules. Arrange these substances in increasing order of the strength of their intermolecular attractions.
+### 5. The table below gives details of the boiling temperatures of some substances made up of covalent molecules. Arrange these substances in increasing order of the strength of their intermolecular attractions.
 
 <table>
 	<tr>
@@ -278,3 +278,45 @@ As Al (aluminium) has 5 outer electrons, and F (fluorine) has 3, having 3 F atom
 #### c) BF<sub>3</sub> is described as an electron-deficient compound. What do you think that might mean?
 
 It could mean that it doesn't have enough electrons and could be unstable as a result.
+
+## Chapter 4
+
+### 1.
+
+#### b) Chose one physical property where diamond and graphite have physical characteristics, and any two physical properties where they are different. Use your diagrams to explain the similarity and the differences.
+
+Similarity - they're both made of carbon
+
+Differences - Diamond is harder than graphite. Graphite is darker in colour.
+
+### 2.
+
+#### a) Most metals are malleable and ductile. Explain what happens to the particles in a metal when it is subjected to a large stress.
+
+The particles slide over each other, into new positions.
+
+#### b) State any other physical property of metals, and explain how it arises from the metallic structure.
+
+Metals are generally very conductive, this is because of the sea of electrons that sourrounds them.
+
+#### c) Alloys are mixtures of metals. Explain why an alloy is usually harder than indiviudal metals that make it up.
+
+In an alloy, the different metal atoms will have different sizes, and this makes it harder for layers to slide i.e. harder.
+
+### 3. Explain why sodium chloride **a)** has a higher melting point; **b)** has brittle crystals; **c)** is soluble in water.
+
+a) It has a higher melting point because it's a **giant ionic structure**, which means it has a large lattice with strong attractions. This means it requires more energy to break and thus at a higher melting point.
+
+b) It has brittle crystals because the atoms can't slide onto the next layer, due to their complex crystaline structure.
+
+c) *Ionic substances tend to be soluble in water.*
+
+### 4. Decide what sort of structure each of the following substances is most likely to have. You can choose between: **giant metallic structure**, **giant covalent structure**, **giant ionic structure**, **molecular structure**.
+
+#### a) Substance A melts at 2300&deg;C. It doesn't conduct electricity even when it is molten. It is insoluable in water.
+
+Covalent bond.
+
+#### b) Substance B is a colourless gas.
+
+#### c) Substance C
