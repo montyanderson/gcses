@@ -94,9 +94,6 @@ They tend to be insoluble in water, unless they react with it.
 
 ## Chapter 5
 
-* sulf**ide** - A name like *copper sulfide* means there is just copper and sulfur only.
-* sulf**ate** - A name like *copper sulfate** means there is something there as well - often, but not always, oxygen.
-
 ### Ions that need to be learned
 
 <table>
@@ -151,3 +148,35 @@ They tend to be insoluble in water, unless they react with it.
 		<td>SO<sub>4</sub><sup>2-</sup></td>
 	</tr>
 </table>
+
+### Charges on ions
+
+| Element in Periodic Table Group | Charge on ion |
+| ------------------------------- | ------------- |
+| 1 | +1 |
+| 2 | +2 |
+| 3 | +3 |
+| 5 | -3 |
+| 6 | -2 |
+| 7 | -1 |
+
+### Endings
+
+* sulf**ide** - A name like *copper sulfide* means there is just copper and sulfur only.
+* sulf**ate** - A name like *copper sulfate** means there is something there as well - often, but not always, oxygen.
+
+#### Formula for *sodium oxide*
+
+* Sodium is in group 1, so the ion is **Na<sup>+</sup>**.
+* Oxygen is in group 6, so the ion is **O<sup>2-</sup>**.
+* To have equal numbers of positive and negative charges, you would need two sodium ions to provide the two positive charges to cancel the two negative charges on one oxide ion. In other words you need:
+* **Na<sup>+</sup>**
+* **Na<sup>+</sup>**
+* **O<sup>2-</sup>**
+
+#### Formula for *barium nitrate*
+
+* Barium is in group 2, so the ion is **Ba<sup>2+</sup>**.
+* Nitrate ions are **NO<sub>3</sub>-**. You will have to remember this.
+* Thus, to have equal numbers of positive and negative charges, you would need two nitrate ions for each barium ion.
+* The formula is **Ba(NO<sub>3</sub>)<sub>2</sub>**

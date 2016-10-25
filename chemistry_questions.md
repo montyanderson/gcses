@@ -365,6 +365,24 @@ No, as giant covalent structures aren't soluble in water.
 
 ### 1. Work out the formulae of the following compounds.
 
-* lead(ii) oxide - Pb (because lead is +2 and oxygen is -2)
+* lead(ii) oxide - PbO (because lead is +2 and oxygen is -2)
+* sodium bromide - NaBr
 * magnesium sulfate - MgSO<sub>4</sub>
-* potassium carbonate - KCO<sub>6</sub>
+* zinc chloride - ZnCl<sub>2</sub>
+* potassium carbonate - K<sub>2</sub>CO<sub>3</sub>
+* ammonium sulfide - (NH<sub>4</sub>)<sub>2</sub>S
+* calcium nitrate - Ca(NO<sub>3</sub>)<sub>2</sub>
+* iron(iii) hydroxide - Fe(OH)<sub>3</sub>
+* copper(ii) carbonate - CuCO<sub>3</sub>
+* aluminium sulfate - Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
+* calcium hydroxide - Ca(OH)<sub>2</sub>
+* cobalt(ii) chloride - CoCl<sub>2</sub>
+* calcium oxide - CaO
+* silver nitrate - *how to we know the ionic value of silver?*
+* iron(iii) fluoride - FeF<sub>3</sub>
+* ammonium nitrate - NH<sub>4</sub>NO<sub>3</sub>
+* rubidium iodide - RbI
+* sodium sulfate - Na<sub>2</sub>SO<sub>4</sub>
+* chromium(iii) oxide - Cr<sub>2</sub>O<sub>3</sub>
+
+(these took absolutely ages)
