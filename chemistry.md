@@ -62,7 +62,7 @@ Metals are generally good conductors of heat and electricity. They also typicall
 
 If a small force is exerted onto a metal, some of the particles move into their new positions.
 
-### Alloys
+#### Alloys
 
 An alloy is a mixture of metals; a metallic compound.
 
@@ -70,4 +70,84 @@ An alloy is a mixture of metals; a metallic compound.
 
 ### Giant ionic structures
 
-* *Ionic compounds have high melting points and boiling points because of strong intermolecular forces holding the lattices together.*
+*Ionic compounds have high melting points and boiling points because of strong intermolecular forces holding the lattices together.*
+
+All ionic compounds consist of huge lattices of positive and negative ions packaged together, held together by the strong attractions between the positively and negatively charged ions.
+
+* sodium chloride, magnesium oxide
+
+They tend to be **crystalline** and **brittle**. This is because small distortions will bring ions with the same charge alongside each other, like charges repel and so the crystal splits itself apart.
+
+#### Polar Molecules
+
+Water, for instace, has a slight negative charge on it's oxygen atom, and a slight positive charge on both of the hydrogen atoms (due to them loosing an electron).
+
+For instance, with sodium chloride and water, the sligtly positive hydrogens in the water cluster around the negative ions, and the slightly negative oxygens are attracted to the positive ions.
+
+### Giant covalent structures
+
+Giant covalent structures tend to have very high melting and boiling point, and generally are insoluble in any solvents.
+
+### Simple molecular structures
+
+They tend to be insoluble in water, unless they react with it.
+
+## Chapter 5
+
+* sulf**ide** - A name like *copper sulfide* means there is just copper and sulfur only.
+* sulf**ate** - A name like *copper sulfate** means there is something there as well - often, but not always, oxygen.
+
+### Ions that need to be learned
+
+<table>
+	<tr>
+		<td>Charge</td>
+		<td>Substance</td>
+		<td>Ion</td>
+	</tr>
+	<tr>
+		<td>Positive</td>
+		<td>zinc</td>
+		<td>Zn<sup>2+</sup></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>silver</td>
+		<td>Ag<sup>+</sup></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hydrogen</td>
+		<td>H<sup>+</sup></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>ammonium</td>
+		<td>NH<sub>4</sub><sup>+</sup></td>
+	</tr>
+	<tr>
+		<td>Negative</td>
+		<td>nitrate</td>
+		<td>NO<sub>3</sub>-</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hydroxide</td>
+		<td>OH-</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>hydrogencarbonate</td>
+		<td>HCO<sub>3</sub>-</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>carbonate</td>
+		<td>CO<sub>3</sub><sup>2-</sup></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>sulfate</td>
+		<td>SO<sub>4</sub><sup>2-</sup></td>
+	</tr>
+</table>

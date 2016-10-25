@@ -315,8 +315,56 @@ c) *Ionic substances tend to be soluble in water.*
 
 #### a) Substance A melts at 2300&deg;C. It doesn't conduct electricity even when it is molten. It is insoluable in water.
 
-Covalent bond.
+Giant covalent bond.
 
 #### b) Substance B is a colourless gas.
 
-#### c) Substance C
+Molecular.
+
+#### c) Substance C is a yellow solid with a low melting point of 113&deg;C. It doesn't conduct electricity and is insoluble in water.
+
+Molecular.
+
+#### d) Substance D forms brittle orange crystals which melt at 398&deg;C. D dissolves freely in water to give an orange solution.
+
+Giant ionic structure.
+
+#### e) Substance E is a pinkish-brown flexible solid. It conducts electricity.
+
+Giant metallic structure.
+
+#### f) Substance F is a liquid with a boiling point of 80&deg;C. It is insoluble in water.
+
+Molecular.
+
+#### g) Substance G is a silvery solid which melts at 660&deg;C. It is used in overhead power cables.
+
+Giant metallic.
+
+#### h) Substance H is a glassy solid which melts at 450&deg;C and boils at 1860&deg;C. It doesn't conduct electricity even when molten, but reacts very slowly with water.
+
+Giant covalent.
+
+### 5. Look at the structure of silicon dioxide, SiO<sub>2</sub>. Silicon-oxygen bonds are strong.
+
+#### a) Would you expect silicon dioxide to be a solid, liquid, or gas? Explain your answer.
+
+It's a 3-dimensional covalent structure, so I'd expect it to be a solid.
+
+#### b) Would you expect silicon dioxide to be hard or soft?
+
+Hard, as it's 3-dimensional structures means it's brittle.
+
+#### c) Silicon dioxide doesn't react with water, but would you expect silicon dioxide to dissolve in water?
+
+No, as giant covalent structures aren't soluble in water.
+
+#### d) By doing an internet or book search, find out where silicon dioxide occurs in nature. Are you answers (a-c) consistent to what you've found out? Explain why.
+
+## Chapter 4
+
+### 1. Work out the formulae of the following compounds.
+
+* lead(ii) oxide - Pb (because lead is +2 and oxygen is -2)
+* magnesium sulfate - MgSO<sub>4</sub>
+* potassium carbonate - KCO<sub>6</sub>
