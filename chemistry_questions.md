@@ -386,3 +386,25 @@ No, as giant covalent structures aren't soluble in water.
 * chromium(iii) oxide - Cr<sub>2</sub>O<sub>3</sub>
 
 (these took absolutely ages)
+
+## Section A questions
+
+### 1.
+
+* a) Structure B, as it has equal amounts of protons and electrons.
+* b) e<sup>-</sup>
+* c)
+
+| | | |
+|-|-|-|
+| proton | + 1 | 1 |
+| neutron | 0 | 1 |
+
+* d) 2, 7
+* e) Sr gives an electron each of the bromine
+* f) SrBr<sub>2</sub>
+* g) High, strong bonds need a high amount of energy to break.
+
+### 2.
+
+* a) 
